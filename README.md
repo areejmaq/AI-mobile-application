@@ -55,12 +55,12 @@ git clone https://github.com/areejmaq/AI-mobile-application.git
 ## 📸 Screenshots
 
 ### Doctor App
-![AI module](screenshots/ai_module.jpg)
-![AI Result](screenshots/ai_result.jpg)
-![Doctor Information](screenshots/doctorpage.jpg)
+![AI module](screenshots/ai_module.jpg.jpg)
+![AI Result](screenshots/ai_result.jpg.jpg)
+![Doctor Information](screenshots/doctorpage.jpg.jpg)
 
 ### Patient App
-![Patient appointment](screenshots/appointment.jpg)
+![Patient appointment](screenshots/appointment.jpg.jpg)
 
 ### Web Panel
-![Admin Panel](screenshots/dashboard.jpg)
+![Admin Panel](screenshots/dashboard.jpg.jpg)
