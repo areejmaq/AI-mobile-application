@@ -50,4 +50,17 @@ git clone https://github.com/areejmaq/AI-mobile-application.git
 
 
 ⚠️THIS APPLICATION IS JUST FOR EDUCATIONAL PURPOSE , ALWAYS CONSULT THE DOCTOR FOR HEALTH ISSUES.
-💡USE YOUR OWN API KEPS, FIREBASE,SERVER KEYS ETC. 
+💡USE YOUR OWN API KEPS, FIREBASE,SERVER KEYS ETC.
+
+## 📸 Screenshots
+
+### Doctor App
+![AI module](screenshots/ai_module.jpg)
+![AI Result](screenshots/ai_result.jpg)
+![Doctor Information](screenshots/doctorpage.jpg)
+
+### Patient App
+![Patient appointment](screenshots/appointment.jpg)
+
+### Web Panel
+![Admin Panel](screenshots/dashboard.jpg)
